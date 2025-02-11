@@ -6,10 +6,13 @@
     text-align: justify;
 }
 .main-header{
-    background-color: #fff;
+    background-color: #1a2253 ;
 }
 .nav-bg-b .custom-nav .nav-list li a.menu-links{
-    color:#050748
+    color:#f7f7f7
+}
+.custom-nav .nav-list li a.menu-links {
+    color: #f7f7f7;
 }
 
 .ptb-30{
@@ -18,4 +21,34 @@
 
 .ptb-60{
     padding : 60px 0;
+}
+.footer-row2{
+    background-color: #1a2253;
+}
+.main-header.sticky {
+  background-color: #1a2253;
+}
+.dsk-logo{
+    width:165px;
+    max-height: 120px;
+}
+.main-header.sticky .custom-nav .nav-list li a.menu-links {
+    color: #f7f7f7;
+}
+.text-blue{
+    color:#3c96d0;
+}
+.text-white{
+    color:#f7f7f7;
+}
+.common-heading>span {
+    color:#3c96d0;
+}
+.footer-row3 {
+    background-color:#3c96d0 !important;
+
+}
+.contact2dv {
+    background: #94bef15e;
+    padding: 30px;
 }
